@@ -1,6 +1,6 @@
 # Dark-Light-Calculator
 
-A simple calculator application built with JavaScript and HTML/CSS. This project is licensed under the Apache License 2.0.
+A simple calculator application built with JavaScript and HTML/CSS/JS. This project is licensed under the Apache License 2.0.
 
 Features:
 The calculator can perform the following operations:
